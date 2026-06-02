@@ -38,6 +38,6 @@ pip install torch sentence-transformers tqdm
 
 ## License
 
-The source code in this repository is released under the MIT License. See the `LICENSE` file for details.
+The source code in this repository is released under the GNU General Public License v3.0. See the `LICENSE` file for details.
 
 The accompanying paper is licensed separately under CC-BY-NC-ND, according to the publication license selected for the paper.
